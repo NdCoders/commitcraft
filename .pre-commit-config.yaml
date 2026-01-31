@@ -36,7 +36,7 @@ repos:
       - id: unit-tests
         name: Unit tests
         description: Run unit tests
-        entry: /opt/homebrew/bin/uv run python -m pytest
+        entry: uv run python -m pytest
         language: system
         types: [python]
         pass_filenames: false
