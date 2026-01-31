@@ -15,7 +15,7 @@ def create_parser() -> argparse.ArgumentParser:
     """Create the argument parser."""
     parser = argparse.ArgumentParser(
         prog="commitcraft",
-        description="Add Jira ticket info to commit messages based on branch name.",
+        description="Add ticket info to commit messages based on branch name.",
     )
     parser.add_argument(
         "filename",
