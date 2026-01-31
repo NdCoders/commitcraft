@@ -2,6 +2,17 @@
 
 
 
+## v0.0.1 (2026-01-31)
+
+### Ci
+
+* ci: fix release pipeline to only run o merges to master branch ([`77a6295`](https://github.com/NdCoders/commitcraft/commit/77a6295cc1a3e00430d79cc3c7ae32c0922aeccd))
+
+### Fix
+
+* fix: add pre-commit hook ([`faa2db4`](https://github.com/NdCoders/commitcraft/commit/faa2db4817ff831aeafccdc4b718a239ce901880))
+
+
 ## v0.0.0 (2026-01-31)
 
 ### Chore

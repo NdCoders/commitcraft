@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "commitcraft"
-version = "0.0.0"
+version = "0.0.1"
 description = "A pre-commit hook to automatically add ticket info to commit messages"
 readme = "README.md"
 license = "MIT"
