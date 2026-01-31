@@ -1,0 +1,8 @@
+---
+- id: commitcraft
+  name: commitcraft
+  entry: commitcraft
+  language: python
+  stages: [prepare-commit-msg]
+  description: Add ticket info to commit messages based on branch name.
+  always_run: true
